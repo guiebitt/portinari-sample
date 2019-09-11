@@ -1,6 +1,6 @@
 # PortinariSample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3 and add [Portinari UI](https://portinari.io/guides/getting-started)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3 and add [Portinari UI](https://portinari.io/guides/getting-started) with [GEBittencourt Portinari Theme](https://github.com/guiebitt/gebittencourt-portinari-styles) - [Green](https://www.npmjs.com/package/@gebittencourt/portinari-style-green).
 
 ## Development server
 
